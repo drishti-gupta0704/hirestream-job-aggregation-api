@@ -1,0 +1,4 @@
+external_id,title,company,location,description,employment_type,workplace_type,salary_min,salary_max,currency,apply_url,source,skills,posted_at
+demo-101,Backend Developer,Example Tech,Noida India,Build Node.js APIs,Full-time,Hybrid,600000,900000,INR,https://example.com/jobs/101,demo-csv,"Node.js;Express;PostgreSQL",2026-10-01
+demo-102,Java Developer,Sample Systems,Gurugram India,Build Spring Boot services,Full-time,On-site,700000,1100000,INR,https://example.com/jobs/102,demo-csv,"Java;Spring Boot;SQL",2026-10-02
+demo-103,Data Engineer,Data Example,Remote India,Build data pipelines,Full-time,Remote,800000,1300000,INR,https://example.com/jobs/103,demo-csv,"Python;SQL;Apache Spark",2026-10-03
